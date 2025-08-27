@@ -17,6 +17,9 @@ Provides guarantees against indirect prompt injection (XPIA), data exfiltration,
 We investigate this prototype and security pattern in more detail in [this preliminary paper](https://docs.google.com/document/d/1FwzQNX0IdaevenZVpwQ6Ph_1BA0fdE8OeqEkKx8-dfo/edit?tab=t.0)
 
 ## Getting Started
+You can open the notebook directly in [google colab](https://colab.research.google.com/github/its-emile/memory-safe-agent/blob/main/Memory_safe_Agent.ipynb)
+
+Alternatively for local execution:
 ```bash
 git clone https://github.com/its-emile/memory-safe-agent
 jupyter notebook Memory_safe_Agent.ipynb
