@@ -14,7 +14,7 @@ Agent generates blind execution plan → Tool calls process data without returni
 Provides guarantees against indirect prompt injection (XPIA), data exfiltration, and tool confusion through architectural separation.
 
 ## Research-stage
-We investigate this prototype and security pattern in more detail in [this preliminary paper](https://docs.google.com/document/d/1FwzQNX0IdaevenZVpwQ6Ph_1BA0fdE8OeqEkKx8-dfo/edit?tab=t.0)
+We investigate this prototype and security pattern in more detail in [this preliminary paper](https://docs.google.com/document/d/1FwzQNX0IdaevenZVpwQ6Ph_1BA0fdE8OeqEkKx8-dfo/view)
 
 ## Getting Started
 You can open the notebook directly in [google colab](https://colab.research.google.com/github/its-emile/memory-safe-agent/blob/main/Memory_safe_Agent.ipynb)
